@@ -1,0 +1,45 @@
+# Unity generated directories
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Ll]ogs/
+/[Uu]ser[Ss]ettings/
+/[Mm]emoryCaptures/
+/[Rr]ecordings/
+
+# Build output
+/[Bb]uild/
+/[Bb]uilds/
+
+# Visual Studio / Rider generated files
+/.vs/
+/.idea/
+/*.csproj
+/*.sln
+/*.slnx
+/*.sln.DotSettings.user
+/*.unityproj
+/*.pidb
+/*.booproj
+/*.svd
+/*.pdb
+/*.mdb
+*.csproj.user
+*.suo
+*.userprefs
+
+# Unity IDE integration generated files
+/[Aa]ssets/Plugins/Editor/JetBrains*
+/[Aa]ssets/Plugins/Editor/JetBrains*.meta
+
+# Unity crash and diagnostic output
+/sysinfo.txt
+/crashlytics-build.properties
+
+# Operating system files
+.DS_Store
+._*
+Thumbs.db
+Desktop.ini
+
+# Keep Assets (including .meta files), Packages, ProjectSettings and Docs tracked.
